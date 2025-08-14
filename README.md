@@ -23,6 +23,8 @@ My CV is in [PDF](my_resume24.pdf)
     - [Tiktok ML](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Tiktok_ml.ipynb)
     - [F1 2021 Season analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/F1_Data_analysis.ipynb)
     - [F1 deadlines web scraping](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/f1_news.py)
+  - Tableau
+    -[EV Analysis Washington (https://public.tableau.com/shared/NNRB29F6D?:display_count=n&:origin=viz_share_link)]   
   
 
   
