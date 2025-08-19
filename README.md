@@ -24,7 +24,9 @@ My CV is in [PDF](my_resume24.pdf)
     - [F1 2021 Season analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/F1_Data_analysis.ipynb)
     - [F1 deadlines web scraping](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/f1_news.py)
   - Tableau
-    - [EV Analysis Washington](https://public.tableau.com/shared/NNRB29F6D?:display_count=n&:origin=viz_share_link)   
+    - [EV Analysis Washington](https://public.tableau.com/shared/NNRB29F6D?:display_count=n&:origin=viz_share_link)
+  - SQL
+    - [Healthcare data analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Healthcare_data_Analysis.sql)    
   
 
   
