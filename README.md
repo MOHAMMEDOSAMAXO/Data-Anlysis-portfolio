@@ -22,7 +22,8 @@ My CV is in [PDF](my_resume2025.pdf)
     - [Tiktok Analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Tiktok_eda.ipynb)
     - [Tiktok ML](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Tiktok_ml.ipynb)
     - [F1 2021 Season analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/F1_Data_analysis.ipynb)
-    - [F1 deadlines web scraping](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/f1_news.py)
+    - [F1 Headlines web scraping](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/f1_news.py)
+    - [F1 2025 Results web scraping](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/f1_results_scraping.py)
   - Tableau
     - [EV Analysis Washington](https://public.tableau.com/shared/NNRB29F6D?:display_count=n&:origin=viz_share_link)
   - SQL
@@ -67,6 +68,10 @@ In this section I will list data analytics projects briefly describing the techn
 
   This project aims to conduct a comprehensive Exploratory Data Analysis (EDA) on the F1 2021 season dataset. Formula 1, being one of the most data-rich sports, provides an opportunity to dive deep into the intricacies of the races, drivers, teams, and circuits. Through this analysis, we will explore the key factors that influenced the outcomes of the 2021 season, uncover performance trends, and identify the elements that contributed to the success or challenges faced by teams and drivers.
 
+- [F1 2025 Results web scraping](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/f1_results_scraping.py)
+
+  This project, automate the process of collecting the results of the 2025 F1 season, it collects either race-results or qualifying results. then it will create a csv file of the collected results.
+  feel free to use and if you any suggestions about improving it please share it with me :)
 
 ## Education
 
