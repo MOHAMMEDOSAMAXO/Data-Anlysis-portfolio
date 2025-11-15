@@ -12,7 +12,7 @@ and trends in the industry. I enjoy working on personal projects that challenge 
 
 My goal is to continually grow as a data analyst and contribute to data-driven decision-making processes that drive innovation and success.
 
-My CV is in [PDF](my_resume2025.pdf)
+My CV is in [PDF](Mohammed Eltahir.pdf)
 
 
 ## Table of Contents
