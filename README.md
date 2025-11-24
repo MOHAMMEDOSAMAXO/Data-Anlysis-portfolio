@@ -1,4 +1,4 @@
-# Data-Anlysis-Protfolio
+# Data-Anlysis-Portfolio
 ## About
 
 My name is Mohammed Eltahir, and I hold a Bachelor of Science in Computer Science. 
