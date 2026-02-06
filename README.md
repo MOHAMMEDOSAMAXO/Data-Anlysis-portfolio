@@ -28,9 +28,12 @@ My CV is in [PDF](https://github.com/MOHAMMEDOSAMAXO/Data-Anlysis-Protfolio/blob
   - Tableau
     - [EV Analysis Washington](https://public.tableau.com/shared/NNRB29F6D?:display_count=n&:origin=viz_share_link)
   - Power BI
-    - [live weather forecast dashborad](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/waether%20(1).pdf)
+    - [Live weather forecast](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/waether%20(1).pdf)
+    - [Ecommerce data analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/ecommerce%20data%20analysis%20(1).pdf)   
   - SQL
-    - [Healthcare data analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Healthcare_data_Analysis.sql)    
+    - [Healthcare data analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/Healthcare_data_Analysis.sql)
+    - [Ecommerce Data analysis](https://github.com/MOHAMMEDOSAMAXO/Protfolio-projects/blob/main/SQLQuery1.sql)    
+   
   
 
   
